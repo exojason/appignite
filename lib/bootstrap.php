@@ -1,0 +1,13 @@
+<?php
+include_once("src/inflect.php");
+include_once("src/name.php");
+include_once("src/string-builder.php");
+include_once("src/validator.php");
+include_once("src/property-def.php");
+include_once("src/property-type.php");
+include_once("src/relationship-def.php");
+include_once("src/relationship-type.php");
+include_once("src/model-def.php");
+include_once("src/model.php");
+include_once("src/model-utils.php");
+?>
